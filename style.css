@@ -1,0 +1,14 @@
+body {
+  font-family: 'Segoe UI';;
+  margin: 20px;
+}
+
+#drawArea {
+  border: 1px solid rgb(65, 21, 21);
+  background-color: rgb(239, 227, 227);
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
